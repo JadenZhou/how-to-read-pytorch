@@ -1,3 +1,11 @@
+> **This is a fork.** The tutorial and all of its notebooks are David Bau's
+> original work — see the [upstream repository](https://github.com/davidbau/how-to-read-pytorch)
+> and [his write-up](http://davidbau.com/archives/2020/07/05/davids_tips_on_how_to_read_pytorch.html).
+>
+> I'm working through it as background for CS 7150 (Deep Learning, Northeastern,
+> Fall 2026), and this fork holds my completed exercises with outputs. Any cell
+> containing answers is mine; everything else is unchanged from upstream.
+
 David's Tips on How to Read Pytorch
 ===================================
 
